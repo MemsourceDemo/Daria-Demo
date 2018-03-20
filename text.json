@@ -1,0 +1,11 @@
+{
+	"message": "This is the text to be translated",
+	"rosettaKey": "Namespace.Key",
+	"rosettaRepo": "SampleRepoName",
+	"context": {
+		"text": "This is sample content. No need to translate it",
+		"imageUrl": "http://SomeCloudFrontUrl",
+		"maxChars": 200
+	}
+
+}
