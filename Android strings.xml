@@ -1,0 +1,386 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"
+           xmlns:tools="http://schemas.android.com/tools">
+    <string name="tab_home">Home</string>
+    <string name="tab_timers">Timers</string>
+    <string name="tab_temperature">Temperature</string>
+    <string name="tab_more">More</string>
+    <string name="tab_grilling">Tips</string>
+
+    <!-- Buttons -->
+    <string name="button_start_grilling">Start barbecuing</string>
+    <string name="button_presets">Presets</string>
+    <string name="button_stop_grilling">Reset Probe</string>
+    <string name="button_complete">End Grill</string>
+    <string name="button_save_timer">Save Timer</string>
+    <string name="button_start_timer">Start Timer</string>
+    <string name="button_take_tour">Take the Tour</string>
+    <string name="button_onboarding_start">Get Started</string>
+    <string name="button_skip">Skip</string>
+    <string name="button_reset_timer">Reset Timer</string>
+    <string name="button_find_devices">Find Devices</string>
+    <string name="button_enable_bluetooth">Enable Bluetooth</string>
+    <string name="button_enable_location">Enable Location</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_pair">Pair</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_refresh">Refresh</string>
+    <string name="button_retry">Retry</string>
+    <string name="button_probe_settings">Probe Settings</string>
+    <string name="button_disconnect">Disconnect</string>
+    <string name="button_start">Start</string>
+    <string name="button_select_foodtype">Select</string>
+    <string name="button_confirm">Got It</string>
+    <string name="button_clear_cook">Clear this grill</string>
+    <string name="button_cook_status_positive">Show Cook</string>
+    <string name="button_graph_view">Graph View</string>
+    <string name="button_submit_form">Submit Form</string>
+    <string name="button_privacy"><u>Review Privacy Policy</u></string>
+    <string name="button_submit_form_newsletter">Submit</string>
+    <string name="button_set_temperature">Set temperature</string>
+    <string name="button_set_doneness">Set doneness</string>
+    <string name="button_settings">Settings</string>
+    <string name="button_dismiss">Dismiss</string>
+    <string name="button_no">No</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_cancel_update">Cancel update</string>
+    <string name="button_remind_me_later">Remind me later</string>
+    <string name="button_install_now">Update now</string>
+    <string name="button_view_pulse_video">View Pulse video</string>
+
+    <!-- Menu -->
+    <string name="menuitem_devices">Add devices</string>
+    <string name="menuitem_settings">Settings</string>
+    <string name="menuitem_support">Support</string>
+    <string name="menuitem_feedback">Leave Feedback</string>
+    <string name="menuitem_policies">Policies</string>
+    <string name="menuitem_declaration">Declaration of Conformity</string>
+
+    <!-- Toolbar -->
+    <string name="location_permission_rationale">For the app to be able to use your iGrill devices, it has to have the \"location\" permission. We won\'t actually track your location.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_tour">Welcome to iGrill! Take the guesswork out of grilling with these three easy steps</string>
+    <string name="intro_01">Pair the iGrill with your movile device.</string>
+    <string name="intro_02">Ensure that the probes are connected to the iGrill.</string>
+    <string name="intro_03">Select your food, how you would like it done and start barbecuing</string>
+
+    <!-- Timers -->
+    <string name="timer_title_overview">Timers</string>
+    <string name="timer_title_add">Add a new timer</string>
+    <string name="timer_title_details">Timer</string>
+    <string name="timer_title_edit">Edit timer</string>
+    <string name="no_timers_title">You haven\'t created any timers yet.</string>
+    <string name="no_timers_subtitle">Tap the icon above to create a timer.</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Mins</string>
+    <string name="time_divider">:</string>
+    <string name="timer_name">Timer</string>
+
+    <!-- Timer Notification -->
+    <string name="timer_notification_title">Timer</string>
+    <string name="timer_notification_message">Your timer has finished.</string>
+
+    <!-- Device connect -->
+    <string name="pair_your_igrill">Pair your iGrill</string>
+    <string name="device_searching">Locating devices</string>
+    <string name="device_state_not_connected">Not Connected</string>
+    <string name="device_state_pairing">Connecting…</string>
+    <string name="device_state_paired">Paired</string>
+    <string name="device_state_enable_bluetooth">Enable Bluetooth&#174; to pair your iGrill</string>
+    <string name="device_state_enable_bluetooth_body">Bluetooth must be enabled to connect to iGrill devices.</string>
+    <string name="device_state_enable_location">Enable Location to pair your iGrill</string>
+    <string name="device_state_enable_location_body">Location services must be enabled to connect to iGrill devices.</string>
+    <string name="device_state_missing_location_permission">Enable Location permission to find your iGrills</string>
+    <string name="device_state_missing_location_permission_body">Android Marshmallow (6.0+) requires Location permission to be granted in order to find your iGrills. We will never view or record your current location.\nTo enable the Location permission go to your app settings. In the app permissions section you can enable the Location permission.</string>
+    <string name="oreo_notice_link">Important Information for Android 8 users</string>
+    <string name="oreo_notice_title">Compatibility Issue Alert!</string>
+    <string name="oreo_notice_body">There is a known issue for phones that are running the Android 8 (Oreo) operating system. Users running this operating system may experience connectivity issues. Google is working to correct the issue and a fix should be available soon.\n\niGrill devices that are affected are iGrill 2, Kitchen Thermometer, and the Kitchen Thermometer Mini.</string>
+
+    <!-- Home screen -->
+    <string name="home_igrill_title">Let\'s barbecue!</string>
+    <string name="home_igrill_body">It\'s time to barbecue your next big dish.</string>
+
+    <string name="home_pulse_title">Let\'s barbecue!</string>
+    <string name="home_pulse_body">It\'s time for your culinary journey to begin</string>
+
+
+    <string name="home_bt_title">Pair your devices to start grilling.</string>
+    <string name="home_bt_body">Pair the iGrill with your mobile device, and grill on.</string>
+
+    <!-- Grill setup -->
+    <string name="grillsetup_tab_doneness">Doneness</string>
+    <string name="grillsetup_tab_temperature">Temperature</string>
+    <string name="grillsetup_tab_range">Range</string>
+    <string name="knob_label_min">Min</string>
+    <string name="knob_label_max">Max</string>
+
+    <string name="grillsetup_title_type">Start Grilling</string>
+
+    <string name="grillsetup_subtitle_temperature">Set your target temperature</string>
+    
+    <string name="grillsetup_title_range_temperature">Set temperature range</string>
+    <string name="grillsetup_min_range">MINIMUM</string>
+    <string name="grillsetup_max_range">MAXIMUM</string>
+
+    <string name="grillsetup_range_error_minmax">Minimum temperature cannot exceed Maximum temperature.</string>
+    <string name="grillsetup_range_error_threshold">Difference between minimum temperature and maximum temperature should be at least <xliff:g id="difference_treshold" example="5">%1$d</xliff:g> degrees.</string>
+    <string name="grillsetup_range_error_min">Minimum temperature should be at least <xliff:g id="min_temperature" example="10">%1$d</xliff:g> degrees.</string>
+    <string name="grillsetup_range_error_max">Maximum temperature cannot exceed <xliff:g id="max_temperature" example="300">%1$d</xliff:g> degrees.</string>
+
+    <string name="grillsetup_title_foodcategory">What are you grilling?</string>
+    <string name="grillsetup_subtitle_foodcategory">Select your food type</string>
+
+    <string name="grillsetup_screentitle_foodsubcategory">Select Cut</string>
+    <string name="grillsetup_caption_foodsubcategory"><u>USDA Guidelines</u></string>
+
+    <string name="grillsetup_screentitle_doneness">Select Doneness</string>
+    <string name="grillsetup_subtitle_doneness">How would you like it done?</string>
+    <string name="grillsetup_label_targettemperature">Target temp</string>
+    <string name="grillsetup_no_doneness_temperature_label">Perfect temp</string>
+
+    <string name="grillsetup_warning">Consuming raw or uncooked meats, poultry, or seafood may increase your risk of foodborne illness.</string>
+
+    <string name="grillsetup_screentitle_probeselection">Select probe</string>
+
+    <string name="grillsetup_foodcategory_unavailable_title">Unavailable</string>
+    <string name="grillsetup_foodcategory_unavailable_text">You can\'t grill by doneness using an ambient probe. The ambient feature can be disabled in the probe settings.</string>
+    <string name="grillsetup_probe_unavailable_title">Unavailable for ambient probes</string>
+    <string name="grillsetup_probe_unavailable_text">You cannot grill by doneness using an ambient probe. You can change the probe type in the probe settings.</string>
+
+    <!-- Grillsetup Warning -->
+    <string name="grillwarning_title">Warning!</string>
+    <string name="grillwarning_body">Colored probe indicators are not heat insulating. Wear protecteve gloves/mitts when handling.</string>
+    <string name="grillwarning_dont_show_again">Don\'t show this message again</string>
+
+    <!-- Temperatures -->
+    <string name="celsius">°C</string>
+    <string name="fahrenheit">°F</string>
+    <string name="probe_subtitle">Probe %d</string>
+    <string name="temperature_text"><xliff:g id="temperature" example="50">%1$d</xliff:g></string>
+    <string name="temperature_text_range"><xliff:g id="lowtemperature" example="50">%1$d</xliff:g> - <xliff:g id="hightemperature" example="70">%2$d</xliff:g></string>
+    <string name="temperature_text_unplugged">--</string>
+    <string name="probe_title_with_doneness_oneline"><xliff:g id="title" example="Steak">%1$s</xliff:g> - <xliff:g id="doneness" example="Medium Rare">%2$s</xliff:g></string>
+    <string name="grill_by_peak_temperature_name">Grilling to <xliff:g id="temperature" example="45">%1$d</xliff:g><xliff:g id="temperature_unit" example="°C">%2$s</xliff:g></string>
+    <string name="grill_by_temperature_range_name">Range <xliff:g id="minTemperature" example="90">%1$d</xliff:g>-<xliff:g id="maxTemperature" example="110">%3$d</xliff:g><xliff:g id="temperature_unit" example="°C">%2$s</xliff:g></string>
+    <string name="probe_ambient_title">Grill temperature</string>
+    <string name="probe_disconnected_title">Connect probe</string>
+    <string name="probe_connected_title">Connected</string>
+    <string name="connect_devices_header">Connect Devices</string>
+    <string name="connect_device_text">Find and connect to\nyour iGrill devices</string>
+    <string name="probe_overcooked">Overcooked</string>
+    <string name="probe_too_hot">Too hot</string>
+    <string name="probe_too_cold">Too cold</string>
+    <string name="probe_in_range">In range</string>
+    <string name="temperature_text_degrees_short"><xliff:g id="temperature" example="45">%d</xliff:g>°</string>
+    <string name="ambient_temperature_title">Grill Temperature</string>
+
+    <!-- Probe Detail -->
+    <string name="probe_detail_disconnected_subtitle">Connect probe to start grilling.</string>
+    <string name="probe_detail_idle_subtitle">Are we grilling today?</string>
+    <string name="probe_detail_subtitle_ambient">Probe <xliff:g id="probeid" exmaple="1">%1$d</xliff:g> - Ambient</string>
+
+    <string name="grilltip_title">Grill</string>
+    <string name="grilltip_title_tips"><u>TIPS</u></string>
+
+    <!-- Probe Complete -->
+    <string name="rest_tip_title">Grill Completed</string>
+
+    <!-- Probe prompt -->
+    <string name="prompt_visibility_toggle_label">Don\'t show this message again.</string>
+    <string name="probe_detail_clear_cook_title">Clear probe</string>
+    <string name="probe_detail_clear_cook_message">Doing so clears the information from this probe so that you are ready to grill your next dish.</string>
+
+    <!-- Alerts/Modals -->
+    <string name="probe_peak_precooked_title">Get Ready!</string>
+    <string name="probe_peak_precooked_message"><xliff:g id="devicename" example="iGrill 2">%1$s</xliff:g> - probe <xliff:g id="probe" example="3">%2$s</xliff:g> has almost reached its target temperature.</string>
+    <string name="probe_peak_done_title">Temperature reached</string>
+    <string name="probe_peak_done_message"><xliff:g id="devicename" example="iGrill 2">%1$s</xliff:g> - probe <xliff:g id="probe" example="3">%2$s</xliff:g> has reached its target temperature.</string>
+    <string name="probe_peak_overcooked_title">Warning!</string>
+    <string name="probe_peak_overcooked_message"><xliff:g id="devicename" example="iGrill 2">%1$s</xliff:g> - probe <xliff:g id="probeId" example="1">%2$s</xliff:g> is over its target temperature.</string>
+
+    <string name="probe_range_inrange_title">Within Range!</string>
+    <string name="probe_range_inrange_message"><xliff:g id="devicename" example="iGrill 2">%1$s</xliff:g> - Probe <xliff:g id="probeId" example="1">%2$s</xliff:g> is within the designated range.</string>
+
+    <string name="probe_range_out_of_range_title">Out of Range!</string>
+    <string name="probe_range_too_cold_message"><xliff:g id="devicename" example="iGrill 2">%1$s</xliff:g> - Probe <xliff:g id="probeId" example="1">%2$s</xliff:g> is below the designated range.</string>
+    <string name="probe_range_too_hot_message"><xliff:g id="devicename" example="iGrill 2">%1$s</xliff:g> - Probe <xliff:g id="probeId" example="1">%2$s</xliff:g> is above the designated range.</string>
+
+    <string name="dialog_stop_grilling_title">Stop Grilling?</string>
+    <string name="dialog_stop_grilling_message">Are you sure you wish to stop grilling? This will clear the current cook.</string>
+
+    <string name="probeselect_ambient_initial">A</string>
+
+    <string name="alert_low_propane_title" tools:ignore="UnusedResources">Propane level low</string>
+    <string name="alert_low_propane_body" tools:ignore="UnusedResources"><xliff:g id="devicename" example="iGrill 2">%1$s</xliff:g>: propane level is at <xliff:g id="propane_level_with_percentage" example="25%">%2$s</xliff:g>.</string>
+
+    <string name="alert_low_battery_title" tools:ignore="UnusedResources">Low battery</string>
+    <string name="alert_low_battery_body" tools:ignore="UnusedResources"><xliff:g id="devicename" example="iGrill 2">%1$s</xliff:g> has <xliff:g id="battery_level" example="20">%2$s</xliff:g>%% battery left.</string>
+
+    <string name="alert_ambient_temperature_title" tools:ignore="UnusedResources">Ready to grill!</string>
+    <string name="alert_ambient_temperature_body" tools:ignore="UnusedResources">"<xliff:g id="device_name" example="Pulse 1000-C032">%1$s</xliff:g>" has reached its target temperature. Check the grill display.</string>
+
+    <!-- Support -->
+    <string name="support_screen_title">Support</string>
+    <string name="support_title">Select your product</string>
+    <string name="support_item_manual">Product Manual</string>
+    <string name="support_item_guide">Quick-Start Guide</string>
+    <string name="support_item_pulse">Frequently Asked Questions</string>
+    <string name="support_item_customer_title">Contact customer service</string>
+    <string name="support_item_customer_body">Submit a ticket to the Weber iGrill support team and we will get back to you as soon as we can.</string>
+    <string name="support_item_button">Submit a ticket</string>
+
+    <!-- Settings -->
+    <string name="device_settings_title">Device Settings</string>
+    <string name="settings_device_explanation">You can pair a device from the <u>Add devices</u> section.</string>
+    <string name="probe_settings_title">Probe Settings</string>
+    <string name="probe_settings_warning">Warning:\nColored probe indicators are not heat insulating.\nWear protective gloves/mitts when handling.</string>
+    <string name="settings_device_type">Device Type</string>
+    <string name="settings_device_name">Device Name</string>
+    <string name="settings_device_name_hint">Name</string>
+    <string name="settings_device_propane_level">Propane Level</string>
+    <string name="settings_battery_level">Battery Level</string>
+    <string name="settings_firmware_version">Firmware version: %s</string>
+    <string name="settings_probe_color">Probe Color</string>
+    <string name="settings_ambient_probe">Ambient Probe</string>
+    <string name="settings_ambient_explanation">Select this setting if you\'re using this probe to monitor the internal temperature of your grill. The app will not detect that a probe is ambient without activating this feature.</string>
+    <string name="settings_ambient_disabled_explanation">You are using this probe to grill by doneness, it can not be set to ambient.</string>
+
+    <!--widget strings-->
+    <string name="widget_device_name_default">iGrill²</string>
+    <string name="widget_temperature_default">--°</string>
+    <string name="widget_probe1_default">Probe 1</string>
+    <string name="widget_probe2_default">Probe 2</string>
+    <string name="widget_probe3_default">Probe 3</string>
+    <string name="widget_probe4_default">Probe 4</string>
+    <string name="widget_probe5_default">Probe 5</string>
+
+    <string name="settings_lights">Knob Lights</string>
+
+    <!-- App settings -->
+    <string name="app_settings_screen_title">Settings</string>
+    <string name="temperature_label">Temperature Unit</string>
+
+    <!-- General Form -->
+    <string name="form_error_title">Please try again</string>
+
+    <!-- Feedback form -->
+    <string name="feedback_form_screen_title">Leave Feedback</string>
+    <string name="feedback_form_title">Any feedback?</string>
+    <string name="feedback_form_body">Let us know what you think, so we can improve the service</string>
+
+    <string name="feedback_form_success_title">We have received your feedback</string>
+    <string name="feedback_form_success_message">Thank you for submitting your thoughts!</string>
+    <string name="feedback_form_error_message">Feedback could not be sent.</string>
+
+    <!-- Newsletter form -->
+    <string name="newsletter_form_screen_title">Subscribe</string>
+    <string name="newsletter_form_title">Stay Close to the Grill</string>
+    <string name="newsletter_form_body">Sign up to find out what is new from Weber including recipes, product info and more!</string>
+    <string name="newsletter_form_name_hint">Your name</string>
+    <string name="newsletter_form_email_hint">Your email</string>
+
+    <string name="newsletter_form_success_title">You are subscribed!</string>
+    <string name="newsletter_form_success_message">We\'ll keep you close to the Grill.</string>
+
+    <!-- Newsletter Modal -->
+    <string name="newsletter_signup_title">Newsletter</string>
+    <string name="newsletter_signup_body">Want to sign up for the latest news from Weber?</string>
+    <string name="newsletter_signup_button_negative">No, thanks.</string>
+    <string name="newsletter_signup_button_positive">Sounds great!</string>
+
+    <!-- Ticket form -->
+    <string name="ticket_form_title">Ticket</string>
+    <string name="ticket_form_body">Submit a ticket</string>
+    <string name="ticket_form_message_label">Your message</string>
+    <string name="ticket_form_name_hint">Your name</string>
+    <string name="ticket_form_email_hint">Your email</string>
+
+    <string name="ticket_form_success_title">Your ticket has been submitted</string>
+    <string name="ticket_form_success_message">We will get back to you as soon as possible.</string>
+    <string name="ticket_form_error_message">We couldn\'t submit the ticket.</string>
+
+    <!-- Policies -->
+
+    <!-- Graph -->
+
+    <!-- Propane levels -->
+    <string name="propane_level_failure" tools:ignore="UnusedResources">(failed to read)</string>
+    <string name="propane_level_100" tools:ignore="UnusedResources">Full</string>
+
+    <!-- Browser -->
+    <string name="title_privacy_policy">Privacy Policy</string>
+    <string name="title_declaration">Declaration of Conformity</string>
+    <string name="browser_error_title">Could not open the page</string>
+    <string name="browser_error_subtitle">Check your connection and/or try again later.</string>
+
+    <!-- Device Reconnect UI -->
+    <string name="reconnecting_header">Connection lost</string>
+    <string name="reconnecting_body">Reconnecting…</string>
+
+    <!-- Probe History Export -->
+    <string name="probe_history_export_email_subject">Temperature Log</string>
+    <string name="probe_history_export_email_app_chooser">How would you like to export the temperature log?</string>
+    <string name="probe_history_export_csv_column_timestamp"><![CDATA[Date & Time]]></string>
+    <string name="probe_history_export_csv_column_temperature">Temperature (<xliff:g id="temperature_unit" example="°C">%1$s</xliff:g>)</string>
+
+    <!-- Presets -->
+    <string name="new_preset_title">New Preset</string>
+    <string name="list_presets_title">Presets</string>
+    <string name="preset_got_it">Got it</string>
+    <string name="added_to_presets_title">Added to Presets</string>
+    <string name="preset_name_hint">Preset name</string>
+    <string name="save_preset">Save</string>
+    <string name="preset_new_title">Enter a name for your new preset</string>
+    <string name="preset_description_peak">Target temperature: <xliff:g id="target_temperature" example="130">%1$s</xliff:g> <xliff:g id="temperature_unit" example="°C">%2$s</xliff:g></string>
+    <string name="preset_description_range">Target temperature range: <xliff:g id="low_temperature" example="120">%1$s</xliff:g>-<xliff:g id="high_temperature" example="140">%2$s</xliff:g> <xliff:g id="temperature_unit" example="°C">%3$s</xliff:g></string>
+    <string name="preset_confirmation_added_body">Successfully added as "%1$s" in presets.</string>
+    <string name="presets_overview_empty_title">No presets have been made.</string>
+    <string name="presets_overview_empty_body">Add a preset when grilling by Doneness, Temperature or Range.</string>
+
+    <!-- Set-ambient -->
+    <string name="set_ambient_title">Do you want to set this probe as ambient?</string>
+    <string name="set_ambient_dont_show_again">Don\'t show this again</string>
+    <string name="set_ambient_body">Use this probe to monitor the internal temperature of your grill. Any probe can be used as an ambient probe. You can change this later in the probe settings.</string>
+
+    <!-- Firmware update -->
+    <string name="firmware_update_title">Firmware Update</string>
+    <string name="firmware_update_progress_updating">Updating…</string>
+    <string name="firmware_update_progress_please_wait">Please wait</string>
+    <string name="firmware_update_success_title">Update successful!</string>
+    <string name="firmware_update_success_body">Your iGrill has been successfully updated. Let\'s start barbecuing!</string>
+    <string name="firmware_update_failed_title">Update failed</string>
+    <string name="firmware_update_failed_body">Firmware update could not be installed. Please ensure that the proper steps are being followed and try again. Factors, such as electromagnetic interference or a depleted battery can interfere with the update process.</string>
+    <string name="firmware_update_available_title">Update Available</string>
+    <string name="firmware_update_available_body">There is a firmware update available for <xliff:g id="device_name" example="iGrill Mini-C032">%1$s</xliff:g>. Would you like to install it?</string>
+    <string name="firmware_update_tips_title">For successful updates please ensure the following:</string>
+    <string name="firmware_update_tip_1">Maintain a temperature probe connected to any port on the grill while updating.</string>
+    <string name="firmware_update_tip_2"> Ensure there is an Internet connection while the firmware update is in progress.</string>
+    <string name="firmware_update_tip_3">Keep device within close proximity of grill while the software update is in progress.</string>
+
+    <!-- Recipes -->
+    <string name="recipe_toolbar_title">Pulse Recipes</string>
+    <string name="recipe_detail_instructions">Instructions</string>
+    <string name="recipe_detail_description">Description</string>
+    <string name="recipe_detail_ingredients">Ingredients</string>
+    <string name="recipe_category_recipes">Recipes</string>
+    <string name="recipe_category_tips_tricks">Tutorials and Maintenance</string>
+    <string name="recipe_step">Step <xliff:g id="step_number" example="1">%1$d</xliff:g></string>
+    <string name="recipe_author">Recipe by <xliff:g id="author" example="ChefName">%1$s</xliff:g> in \u0022<xliff:g id="book" example="bookName">%2$s</xliff:g>\u0022</string>
+    <string name="recipe_video_error">Unable to play this video at this time.</string>
+
+    <!-- Pulse onboarding -->
+    <string name="pulse_intro_1_title">The Weber Pulse Grill</string>
+    <string name="pulse_intro_1_body">Discover The Future of Grilling</string>
+    <string name="pulse_intro_2_title">The Weber Pulse Grill</string>
+    <string name="pulse_intro_2_body">Crafted to perfection with precision and control</string>
+    <string name="pulse_intro_3_title">The Weber Pulse Grill</string>
+    <string name="pulse_intro_3_body">Made for Modern Living</string>
+    <string name="pulse_onboarding_continue">Let\'s get going</string>
+    <string name="pulse_onboarding_see_recipes">See recipes</string>
+    <string name="pulse_onboarding_see_recipessetup_a_cook">Setup a cook</string>
+
+    <!-- Notification widget -->
+    <string name="notification_widget_disconnect_device_confirmation_title" tools:ignore="UnusedResources">Disconnect device</string>
+    <string name="notification_widget_disconnect_device_confirmation_body" tools:ignore="UnusedResources">Do you want to disconnect %1$s? You won\'t receive any alerts from its probes.</string>
+</resources>
