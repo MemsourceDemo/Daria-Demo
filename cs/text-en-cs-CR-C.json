@@ -1,0 +1,11 @@
+{
+	"message": "Toto je text, který má být přeložen",
+	"rosettaKey": "Namespace.Key",
+	"rosettaRepo": "SampleRepoName",
+	"context": {
+		"text": "Toto je ukázka obsahu. Není třeba jej překládat",
+		"imageUrl": "http://SomeCloudFrontUrl",
+		"maxChars": 200
+	}
+
+}
